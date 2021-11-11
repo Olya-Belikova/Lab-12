@@ -106,10 +106,11 @@ namespace lab12
                         case 0: Console.Write("продолжать движение на восток"); break;
                     }
                     break;
+            }
             */
 
             /* №3
-            Console.Write("Количество занятий: ");
+            Console.Write("Количество заданий: ");
             int n = Convert.ToInt32(Console.ReadLine());
             if (n >= 10 && n <= 40)
             {
